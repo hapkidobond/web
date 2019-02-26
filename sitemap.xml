@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hapkidobond.nl/feedback/</loc>
+    <lastmod>2018-11-04T21:52:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/</loc>
+    <lastmod>2018-11-04T21:52:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/agenda/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/nhb/bestuur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/nhb/dangraadhouders/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/gallery/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/hapkido/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/gallery/01_stage_oirschot_2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/nhb/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/gallery/02_onk_2015/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hapkidobond.nl/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
